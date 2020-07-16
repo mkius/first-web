@@ -78,3 +78,122 @@ After five week afect a made this web .If you decide than nothing impossible " <
 </body>
 
 </html>
+body{
+  color:#40514E;
+  background-color:#e4f9f5;
+  margin: 0;
+  text-align:center;
+font-family: 'Merriweather', serif;
+
+}
+h1{
+  color: #66BFBF;
+  margin-top: 0 ;
+font-family: 'Sacramento', cursive;
+font-size: 90px;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 30px;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top{
+  background-color:#e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+position: relative;
+left: 300px;
+top:10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+p{
+  line-height: 2;
+}
+hr{
+  border:dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+.pc-img{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.coding-img{
+  width: 25%;
+  float: right;
+  margin-right: 70px;
+  margin-left: 50px;
+  margin-bottom: 80px;
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+a
+{
+ text-decoration: none;
+ margin: 10px 20px;
+
+}
+a:hover{
+  color: #e84545;
+}
+.my-skill{
+  width: 60%;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2cb4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2cb4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2cb4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2cb4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2cb4ad);
+  text-decoration: none;
+}
+.my-para{
+  width: 60%;
+  margin-left: 300px;
+}
